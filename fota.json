@@ -1,0 +1,8 @@
+[
+   {
+      "type":"esp32-fota-http",
+      "version":4,
+      "url":"https://raw.githubusercontent.com/m9r1a/Files/main/firmware.bin",
+      "spiffs":"https://raw.githubusercontent.com/m9r1a/Files/main/littlefs.bin"
+   }
+]
