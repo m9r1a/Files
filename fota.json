@@ -1,10 +1,10 @@
 [
    {
       "type":"esp32-fota-http",
-      "version":6,
-      "url":"https://raw.githubusercontent.com/m9r1a/Files/main/firmware.bin",
+      "version":7,
 	"host": "raw.githubusercontent.com",
 	"port": 443,
+	 "bin":"/m9r1a/Files/main/firmware.bin",
       "littlefs":"/m9r1a/Files/main/littlefs.bin"
    }
 ]
